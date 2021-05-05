@@ -34,7 +34,7 @@ export function Welcome(){
             </SafeAreaView>
     )
 }
-//sdadsa
+
 const style = 
 StyleSheet.create({
 //sddsdsds
